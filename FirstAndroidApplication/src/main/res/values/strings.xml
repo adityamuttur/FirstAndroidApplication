@@ -3,7 +3,8 @@
 
     <string name="app_name">sourcecode123</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Learning Android!!\n</string>
-    <string name="my_string">First Test String.\n</string>
+    <string name="edit_message">Placeholder</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
 
 </resources>
